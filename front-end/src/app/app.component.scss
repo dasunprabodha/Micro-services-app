@@ -1,0 +1,11 @@
+.edit, .delete {
+  cursor: pointer;
+}
+
+.edit:hover {
+  color: green;
+}
+
+.delete:hover {
+  color: red;
+}
